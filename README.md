@@ -1,2 +1,4 @@
-### CS440-Artificial-Intelligence Assignments
-##### Group Project
+### CS440 Artificial Intelligence Assignments
+
+##### Assignment 2: Implementation of Breakthrough
+
