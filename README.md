@@ -1,4 +1,4 @@
-### CS440 Artificial Intelligence Assignments
+## CS440 Artificial Intelligence Assignments
 1. __Assignment 1 -- Search__
  * Implementation of BFS, DFS, Greedy First Search, and A* Search
 
