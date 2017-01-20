@@ -1,8 +1,15 @@
 ### CS440 Artificial Intelligence Assignments
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+1. Assignment 1 -- Search
+⋅⋅* Implementation of BFS, DFS, Greedy First Search, and A* Search
+
+2. Assignment 2 -- Breakthrough
+⋅⋅* Implementation of Breakthrough Game
+
+3. Navies Bayes Classification
+⋅⋅1. Digital Classification
+⋅⋅2. Text Document Classification
+
+4. Reinforcement Learning and Perceptrons
+..1. Q-Learning -- Pong Game
+..2. Text Document Classification -- Using Perceptron
 
